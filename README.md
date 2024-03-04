@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Tyla</h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
-- 🔭 I’m currently working on **e-Commerce Website**
+- 🔭 I’m currently working on **e-Commerce Website** [view live](https://shopping-cart-7r8fy6y0d-tono0682.vercel.app)
 
 - 🌱 I’m currently learning **React**
 
